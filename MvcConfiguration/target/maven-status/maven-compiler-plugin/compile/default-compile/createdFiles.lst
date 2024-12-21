@@ -1,0 +1,5 @@
+com\mvcConfig\Repository\userRepo.class
+com\mvcConfig\Modal\User.class
+com\mvcConfig\homeController.class
+com\mvcConfig\Service\userService.class
+com\mvcConfig\ConcatController.class
